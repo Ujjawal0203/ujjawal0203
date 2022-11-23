@@ -24,19 +24,6 @@
 ---
 
 
- 
-<!----------------------------------- Profile View Section ------------------------------------>
-
-<p align="left">
-    <a href="https://github.com/ArjunSinghBhakuni">
-        <img src="https://komarev.com/ghpvc/?username=ArjunSinghBhakuni&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
-    </a>
-<!--     <a href="https://github.com/ArjunSinghBhakuni?tab=followers">
-        <img src="https://img.shields.io/github/followers/ArjunSinghBhakunit?label=Followers&style=social" alt="followers-count">
-    </a> -->
-</p>
- 
-
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
@@ -72,18 +59,3 @@
 
 ---
 
-
-<p display="flex" align="center">
-<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSinghBhakuni&hide=smalltalk&theme=algolia&layout=compact" width="400" />
-
-
-
-  <a href="https://github.com/ArjunSinghBhakuni?tab=repositories">
-    <img width="400" height="auto"  alt="Arjun's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=ArjunSinghBhakuni&show_icons=true&theme=algolia&count_private=true" />
-  </a>
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunSinghBhakuni&hide=smalltalk&theme=algolia&layout=compact" alt="ArjunSinghBhakuni" />
-</p>
-
----
