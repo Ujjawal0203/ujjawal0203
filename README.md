@@ -59,8 +59,8 @@
 
 ---
 
-  <p><img align="left" width="400px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ujjawal0203&show_icons=true&locale=en&layout=compact" alt="saikhmirsat" /></p>
+  <p><img align="left" width="400px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ujjawal0203&show_icons=true&locale=en&layout=compact" alt="ujjawal" /></p>
   
-  <p>&nbsp;<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=Ujjawal0203&show_icons=true&locale=en" alt="saikhmirsat" /></p>
-<p><img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjawal0203&" alt="saikhmirsat" /></p>
+  <p>&nbsp;<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=Ujjawal0203&show_icons=true&locale=en" alt="ujjawal" /></p>
+<p><img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjawal0203&" alt="ujjawal" /></p>
 
