@@ -12,12 +12,16 @@
 
 ---
 
-## I'm a Software Engineer and Life Long Learner!
-- 🌱 I’m currently Learning MERN Stack at Masai School.
-- 🌏 Looking to solve real-world problems.
-- 💻 I'm passionate about making creative websites.
-- ⚡ Fact: I love to make videos on youtube.
+- 🌱 I’m currently learning **Full Stack Web Development**
+
+- 👨‍💻 All of my projects are available at [https://imukeshkaushal.github.io/](https://ujjawal0203.github.io/)
+
 - 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs,Chakra Ui, Npm.
+
+- 📫 How to reach me **imukeshkaushal@gmail.com**
+
+- 📄 Lookup My Resume & Experience - **[Check Resume](https://drive.google.com/file/d/1aRiz0R5QoNejR6zGW5IIp5iuNeCnCWjB/view?usp=sharing)**
+
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>i love networking with people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
