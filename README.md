@@ -14,11 +14,11 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://imukeshkaushal.github.io/](https://ujjawal0203.github.io/)
+- 👨‍💻 All of my projects are available at [https://ujjawal0203.github.io/](https://ujjawal0203.github.io/)
 
 - 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs,Chakra Ui, Npm.
 
-- 📫 How to reach me **imukeshkaushal@gmail.com**
+- 📫 How to reach me **ujjawal0203.jk@gmail.com**
 
 - 📄 Lookup My Resume & Experience - **[Check Resume](https://drive.google.com/file/d/1aRiz0R5QoNejR6zGW5IIp5iuNeCnCWjB/view?usp=sharing)**
 
