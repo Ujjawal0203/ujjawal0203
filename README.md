@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ujjawal0203.jk@gmail.com**
 
-- 📄 Lookup My Resume & Experience - **[Check Resume](https://drive.google.com/file/d/1i4WgKFeE-lAf0EKW7zTMpGFe6ZOa5a5h/view?usp=sharing)**
+- 📄 Lookup My Resume & Experience - **[Check Resume](https://drive.google.com/file/d/1xo1NE2ELQ-ZjPE8kqrMt0SiWfNlev9ue/view?usp=sharing)**
 
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>i love networking with people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
