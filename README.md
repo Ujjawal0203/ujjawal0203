@@ -18,7 +18,7 @@
 
 - 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs,Chakra Ui, Npm.
 
-- 📫 How to reach me **ujjawal0203.jk@gmail.com**
+- 📫 How to reach me **ujjawalkr0203@gmail.com**
 
 - 📄 Lookup My Resume & Experience - **[Check Resume](https://drive.google.com/file/d/1p8jsnimX_WO9z9VWdps9x8r2UqMrPBSN/view?usp=sharing)**
 
