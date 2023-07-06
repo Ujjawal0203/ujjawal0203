@@ -3,7 +3,7 @@
 <a href="https://ujjawal0203.github.io/">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
 </a>
-<a title="ujjawal0203.jk@gmail.com" href="mailto:ujjawal0203.jk@gmail.com">
+<a title="ujjawal0203.jk@gmail.com" href="mailto:ujjawalkr0203@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="1995sirohis@gmail.com" />
 </a>
 <a href="https://www.linkedin.com/in/ujjawal-kumar-086691237/">
